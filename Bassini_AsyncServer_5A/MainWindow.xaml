@@ -1,0 +1,13 @@
+﻿<Window x:Class="Bassini_AsyncServer_5A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bassini_AsyncServer_5A"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="156.991" Width="196.452">
+    <Grid>
+        <Button x:Name="btnAscolta" Content="Metti in ascolto..." HorizontalAlignment="Left" Margin="24,33,0,0" VerticalAlignment="Top" Width="146" Height="76" Click="btnAscolta_Click"/>
+
+    </Grid>
+</Window>
